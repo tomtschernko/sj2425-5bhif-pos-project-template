@@ -1,9 +1,11 @@
 # Final project
 
+Ende: 21.3.2025
+
 Erstellen Sie eine Web Anwendung nach dem Clean Architecture Muster. 
 Achten Sie dabei wenn möglich auf die Verwendung moderner Programmierparadigmen
 
-IMPORTANT: Every week at least one Commit/Push.
+IMPORTANT: **Every week at least one Commit/Push.**
 
 ## Domain modelling
 Modellierung und dem Mapping eines OO-Models in eine relationale Datenbank.
